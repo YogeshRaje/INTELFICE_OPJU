@@ -1,9 +1,11 @@
-Task1-
-Open terminal
->source /opt/intel/inteloneapi/setvars.sh
+Task1-1 : Check the allocated resources by Intel 
+-Open Terminal 
+-click on + and then slect Terminal 
+* It will open linux terminal on Intel Devcloud
+-Activate Intel OpneAPI
+> source /opt/intel/inteloneapi/setvars.sh
+-check the allocated resources 
 >clinfo –l 
-To get access of GPU
+-Get access of GPU from Intel
 >qsub -I -l nodes=1:gpu:ppn=2 
 >clinfo –l 
->exit
->qstat
