@@ -42,3 +42,18 @@ Task3 - demo of program of linear regression in jupyter notebook
 -Jupyter notebook will open .
 -Execute the demo files .
  
+ 
+ ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ Task 4- How to download OneAPI sample code on Terminal of Intel DevCloud
+-Open terminal in devcloud 
+>mkdir opjudemoday2
+>cd opjudemoday2
+>git clone https://github.com/IntelSoftware/Machine-Learning-using-oneAPI.git
+>dir
+*It will show directory Machine-Learning-using-oneAPI
+-go to machine learning one API folder 
+>cd Machine-Learning-using-oneAPI
+>dir
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
