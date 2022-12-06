@@ -11,7 +11,7 @@ Task1-1 : Check the allocated resources by Intel
 >clinfo –l 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+Day2 
 Task1- How to install Intel Distribution of Python on Laptop
 -Search for intel distribution for python 
 https://www.intel.com/content/www/us/en/developer/tools/oneapi/distribution-for-python.html
