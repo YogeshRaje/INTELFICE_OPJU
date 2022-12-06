@@ -32,4 +32,12 @@ Task2- Demo - How to Activate and run sample program using Intel Distribution of
 > python --version
 
 ***It shows output as Python 3.9.10 :Intel Corporation . It means Intel OneAPI:Intel distribution is initialized on your local machine.
+
+
+Task3 - demo of program of linear regression in jupyter notebook
+-Create folder on desktop and change to that directory
+>cd C:\Users\user\Desktop\demo_Intel_OneAPI
+-open jupyter notebook with Intel version on local machine 
+> jupyter notebook 
+-Jupyter notebook will open .
  
