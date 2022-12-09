@@ -15,7 +15,9 @@ https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegr
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-List of Project’s for Learners – https://drive.google.com/drive/folders/17D7V-eUdGoUvAhdVn5jKwAZv5Lnoc6ul?usp=share_link
+List of Project’s for Learners – 
+
+https://docs.google.com/document/d/1Bof63ekUkycwccpGVO_xLUPevQFnqUBR/edit?usp=share_link&ouid=106491756080573887534&rtpof=true&sd=true
 
 Dataset Link - https://drive.google.com/drive/folders/10kw2baP4dwn1ZcBuy-GiQxlQQBiAwlP1?usp=share_link
 
