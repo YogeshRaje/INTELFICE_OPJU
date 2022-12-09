@@ -1,8 +1,6 @@
 # INTELFICE_OPJU
 +++++++++++++++++++++++++++++++++++++
 Day5
-
-
 Task1) Provide Feedback of 5 days workshop
 1)open portal  lms.fice.in and LogIn with your credintials
 
@@ -10,10 +8,7 @@ Task1) Provide Feedback of 5 days workshop
 
 3)click on Feedback (9th Dec 2022) to provide feedback about 5 days workshop.
 
-
-
 +++++++++++++++++++++++++++++++
-
 
 Task2) Attempt Quiz
 1)open portal  lms.fice.in and LogIn with your credintials
