@@ -23,3 +23,5 @@ Dataset Link - https://drive.google.com/drive/folders/10kw2baP4dwn1ZcBuy-GiQxlQQ
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Model Deployment using Streamlit
+https://yogeshraje-irisflowerprediction-app-sar065.streamlit.app/ 
