@@ -1,10 +1,21 @@
 # INTELFICE_OPJU
 +++++++++++++++++++++++++++++++++++++
 
-LMS Registration
-https://lms.fice.in/login/signup.php
 
-Course   = O.P. Jindal University - Second Year 2021-2025 batch
+
+Task1) Provide Feedback of 5 days workshop
+1)open portal  lms.fice.in and LogIn with your credintials
+2)From Menu click on Course and select your collage name O.P. Jindal University - Second Year 2021-2025 batch
+3)click on Feedback (9th Dec 2022) to provide feedback about 5 days workshop.
+
+
++++++++++++++++++++++++++++++++
+
+
+Task2) Attempt Quiz
+1)open portal  lms.fice.in and LogIn with your credintials
+2)From Menu click on Course and select your collage name O.P. Jindal University - Second Year 2021-2025 batch
+3)Click on Quiz link Phase-3 Quiz(9th  under section Phase - 3 QUIZ (ASSESSMENT) 9th Dec 2022
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -35,3 +46,14 @@ Dataset Link - https://drive.google.com/drive/folders/10kw2baP4dwn1ZcBuy-GiQxlQQ
 
 Model Deployment using Streamlit
 https://yogeshraje-irisflowerprediction-app-sar065.streamlit.app/ 
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+LMS Registration
+https://lms.fice.in/login/signup.php
+
+Course   = O.P. Jindal University - Second Year 2021-2025 batch
